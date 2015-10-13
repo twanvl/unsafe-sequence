@@ -1,0 +1,6 @@
+*.o
+*.hi
+*.exe
+Benchmark
+benchmark-results.html
+
